@@ -26,7 +26,8 @@ SECRET_KEY = 'bhjb8d2khn=_oo@@b+^gp&!se6na!x*dct)wa39mpz&b2f+q7^'
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['entoneorg-dev.us-west-2.elasticbeanstalk.com/']
+ALLOWED_HOSTS = ['entoneorg-dev.us-west-2.elasticbeanstalk.com']
+
 
 
 # Application definition
